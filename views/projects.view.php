@@ -12,7 +12,7 @@ $this->extend('layout');
 <section class="page-header">
     <div class="container">
         <h1 class="page-heading">
-            My Projects
+            Mine projekter
         </h1>
         <p class="page-intro">
             Welcome to my project showcase! Here you'll find a collection of my recent work, highlighting my skills in web development and software engineering. Each project demonstrates my commitment to creating clean, efficient, and user-friendly solutions.
@@ -29,27 +29,27 @@ $this->extend('layout');
                 >
                     <div class="project-image">
                         <img
-                            src="<?= htmlspecialchars($project->image) ?>"
-                            alt="<?= htmlspecialchars($project->title) ?>"
+                            src="images/TIKTRUE.png"
+                            alt="Tiktrue billede"
                         >
                     </div>
                     <div class="project-content">
                         <h2>
-                            <?= htmlspecialchars($project->title) ?>
+                            1 semester eksamen - 'TikTrue'
                         </h2>
                         <p class="project-description">
-                            <?= htmlspecialchars($project->description) ?>
+                            Til min eksamen på 1 semester udviklede jeg prototypen 'TikTrue', en app, som skal hjælpe og guide unge piger med at gennemskue falske hudplejemyter på TikTok.
                         </p>
                         <p class="technologies">
                             <strong>Technologies:</strong>
-                            <?= htmlspecialchars($project->technologies) ?>
+                            HTML, CSS, FIGMA
                         </p>
                         <div class="project-actions">
                             <a
-                                href="<?= htmlspecialchars($project->link) ?>"
+                                href="http://tiktrueapp.frejagamstrup.dk/"
                                 class="btn-view-project"
                             >
-                                View Project
+                                Se projektet
                             </a>
                         </div>
                     </div>

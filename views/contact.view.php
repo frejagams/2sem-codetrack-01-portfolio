@@ -36,8 +36,8 @@ $this->extend('layout');
                         <strong>
                             Email:
                         </strong>
-                        <a href="mailto:contact@example.com">
-                            contact@example.com
+                        <a href="mailto:frejagamstrup@gmail.com">
+                           Frejagamstrup@gmail.com
                         </a>
                     </li>
                     <li>
@@ -45,14 +45,14 @@ $this->extend('layout');
                             Phone:
                         </strong>
                         <a href="tel:+4512345678">
-                            +45 12345678</a>
+                            +45 21174670</a>
                     </li>
                     <li>
                         <strong>
                             Location:
                         </strong>
                         <span>
-                            City, Country
+                            Ringsted, Danmark
                         </span>
                     </li>
                 </ul>

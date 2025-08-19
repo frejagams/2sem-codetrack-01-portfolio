@@ -57,12 +57,9 @@ $this->extend('layout');
         <div class="skill-items">
             <span class="skill-tag">HTML</span>
             <span class="skill-tag">CSS</span>
-            <span class="skill-tag">Photoshop</span>
-            <span class="skill-tag">Illustrator</span>
-            <span class="skill-tag">InDesign</span>
-            <span class="skill-tag">Webhosting</span>
-            <span class="skill-tag">Graphic Design</span>
-            <span class="skill-tag">Project Planning</span>
+            <span class="skill-tag">Figma</span>
+            <span class="skill-tag">Grafisk design</span>
+            <span class="skill-tag">Æstetik</span>
         </div>
     </div>
 </section>
