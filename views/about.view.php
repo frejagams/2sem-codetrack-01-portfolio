@@ -11,10 +11,13 @@ $this->extend('layout');
 <section class="page-header">
     <div class="container">
         <h1 class="page-heading">
-            About Me
+            Lidt om mig
         </h1>
         <p class="page-intro">
-            Get to know more about my journey, skills, and passion for web development. I'm dedicated to creating elegant solutions to complex problems.
+            Her kan du få et indblik i min rejse, mine kompetencer og min passion for
+            multimediedesign.
+            Jeg brænder for at skabe elegante og kreative løsninger, hvor æstetik og
+            funktionalitet går hånd i hånd.
         </p>
     </div>
 </section>
@@ -23,29 +26,29 @@ $this->extend('layout');
     <div class="container">
         <div class="about-content">
             <div class="about-text">
-                <h2 class="section-heading">Bio</h2>
+                <h2 class="section-heading">Hvem er jeg?</h2>
                 <p>
-                    Hi, I'm a passionate web developer with a focus on building clean,
-                    efficient, and user-friendly applications. I specialize in PHP
-                    development and modern web technologies, with a particular interest
-                    in creating robust back-end solutions.
-                </p>
-                <p>
-                    My journey in web development began with a fascination for problem-solving
-                    and has evolved into a deep appreciation for well-structured, maintainable code.
-                    I believe in writing code that not only works but is also easy to understand
-                    and maintain.
-                </p>
-                <p>
-                    When I'm not coding, I enjoy keeping up with the latest tech trends,
-                    contributing to open-source projects, and sharing knowledge with the
-                    developer community. I'm particularly excited about modern PHP practices,
-                    test-driven development, and building scalable applications.
-                </p>
-            </div>
+                <div class="about-me">
+                    <p>
+                        Hej, jeg hedder Freja — jeg er 25 år og studerer Multimediedesign.
+                        Jeg har en stor passion for æstetik, grafisk design og visuel kommunikation,
+                        og jeg elsker at skabe digitale løsninger, der både er brugervenlige og visuelt tiltalende.
+                    </p>
+                    <p>
+                        Min rejse inden for multimediedesign begyndte med en fascination af, hvordan visuelle udtryk
+                        kan fortælle historier og påvirke følelser. Med tiden har det udviklet sig til en dyb interesse
+                        for at kombinere design, teknologi og kommunikation på en måde, der giver mening og værdi.
+                    </p>
+                    <p>
+                        Når jeg ikke arbejder med designprojekter, holder jeg af at udforske nye trends inden for digital æstetik,
+                        eksperimentere med kreative værktøjer og hente inspiration i kunst, mode og moderne medier.
+                        Mit mål er at videreudvikle mine kompetencer og skabe design, der kan skabe en stærk visuel og emotionel forbindelse.
+                    </p>
+                </div>
 
-            <div class="about-image">
-                <img src="images/profile-portrait.jpg" alt="Headshot of Abigail looking suspicious" class="portrait-image">
+
+            <div class="computerbillede">
+                <img src="images/com.png" alt="computer" class="computerbillede">
             </div>
         </div>
     </div>

@@ -22,7 +22,7 @@ $this->extend('layout');
         <div class="intro-content">
             <div class="intro-text">
                 <h2 class="section-heading">Lidt om mig</h2>
-                <p>Jeg studerer multimediedesign og har en særlig interesse for grafisk design. Jeg elsker at arbejde med visuel identitet, layout og kreativ formidling, hvor jeg kan kombinere æstetik og funktionalitet for at skabe design, der fanger og engagerer.</p>
+                <p>Jeg studerer multimediedesign og har en særlig interesse for grafisk design og visuel kommunikation. Jeg elsker at arbejde med visuel identitet, layout og kreativ formidling, hvor jeg kan kombinere æstetik og funktionalitet for at skabe design, der fanger og engagerer.</p>
                 </p>
             </div>
             <div class="intro-image">
@@ -34,7 +34,7 @@ $this->extend('layout');
 
 <section class="quick-links section-padding">
     <div class="container">
-        <h2 class="section-heading">Explore More</h2>
+        <h2 class="section-heading">Udforsk mere</h2>
         <div class="links-grid">
             <a href="/projects" class="link-card">
                 <h3>Projekter</h3>

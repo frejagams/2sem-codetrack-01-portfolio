@@ -13,10 +13,12 @@ $this->extend('layout');
 <section class="page-header">
     <div class="container">
         <h1 class="page-heading">
-            Get in Touch
+            Kontakt mig her
         </h1>
         <p class="page-intro">
-            Have a question or want to collaborate? I'd love to hear from you. Feel free to reach out using the form below or through my social media channels.
+            Har du et spørgsmål eller lyst til at samarbejde?
+            Jeg vil meget gerne høre fra dig!
+            Du er velkommen til at kontakte mig via formularen herunder eller gennem mine sociale medier.
         </p>
     </div>
 </section>
@@ -26,10 +28,13 @@ $this->extend('layout');
         <div class="contact-content">
             <div class="contact-info">
                 <h2>
-                    Contact Information
+                    Mine kontaktoplysninger
                 </h2>
                 <p>
-                    I'd love to hear from you! Whether you have a question about my work, want to discuss a potential project, or just want to say hello, please don't hesitate to reach out.</p>
+                    Jeg vil rigtig gerne høre fra dig!
+                    Uanset om du har et spørgsmål til mit arbejde, ønsker at drøfte et muligt projekt,
+                    eller bare vil sige hej, er du altid velkommen til at tage kontakt.
+                </p>
 
                 <ul class="contact-details">
                     <li>
@@ -58,14 +63,13 @@ $this->extend('layout');
                 </ul>
 
                 <blockquote>
-                    "Good design is as little design as possible." — Dieter Rams
-                    <cite>Design Philosophy</cite>
+
                 </blockquote>
             </div>
 
             <div class="contact-form">
                 <h2>
-                    Send a Message
+                    Send mig en besked
                 </h2>
 
                 <form action="/contact" method="post">
@@ -77,7 +81,7 @@ $this->extend('layout');
 
                     <div class="form-group">
                         <label for="name">
-                            Your Name
+                           Dit navn:
                         </label>
                         <input
                             type="text"
@@ -96,7 +100,7 @@ $this->extend('layout');
 
                     <div class="form-group">
                         <label for="email">
-                            Email Address
+                            E-mail adresse:
                         </label>
                         <input
                             type="email"
@@ -115,7 +119,7 @@ $this->extend('layout');
 
                     <div class="form-group">
                         <label for="subject">
-                            Subject
+                            Emne:
                         </label>
                         <input
                             type="text"
@@ -134,7 +138,7 @@ $this->extend('layout');
 
                     <div class="form-group">
                         <label for="message">
-                            Your Message
+                            Skriv her:
                         </label>
                         <textarea
                             id="message"
@@ -156,7 +160,7 @@ $this->extend('layout');
                         type="submit"
                         class="button"
                     >
-                        Send Message
+                        Send besked
                     </button>
                 </form>
             </div>

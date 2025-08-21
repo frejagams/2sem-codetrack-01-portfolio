@@ -15,7 +15,10 @@ $this->extend('layout');
             Mine projekter
         </h1>
         <p class="page-intro">
-            Welcome to my project showcase! Here you'll find a collection of my recent work, highlighting my skills in web development and software engineering. Each project demonstrates my commitment to creating clean, efficient, and user-friendly solutions.
+            Her kan du finde et udvalg af mine nyeste projekter, som viser mine kompetencer
+            inden for multimediedesign, grafisk design og visuel kommunikation.
+            Hvert projekt afspejler min passion for æstetik og mit fokus på at skabe løsninger,
+            der både er brugervenlige og visuelt tiltalende.
         </p>
     </div>
 </section>
